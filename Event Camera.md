@@ -2,7 +2,7 @@
 #### 【2505】A Survey of 3D Reconstruction with Event Cameras
 [论文](https://arxiv.org/pdf/2505.08438)
 
-### 3DGS-based
+## 3DGS-based
 #### 【2504】STP4D: Spatio-Temporal-Prompt Consistent Modeling for Text-to-4D Gaussian Splatting
 [论文](https://arxiv.org/pdf/2504.18318)，[项目地址]()
 
@@ -27,7 +27,7 @@
 #### 【2405】Evggs: A collaborative learning framework for event-based generalizable gaussian splatting
 [论文](https://arxiv.org/pdf/2405.14959)，[项目地址]()
 
-### 4DGS-based
+## 4DGS-based
 #### 【2508】E-4DGS: High-Fidelity Dynamic Reconstruction from the Multi-view Event Cameras
 [论文](https://arxiv.org/pdf/2508.09912)，[项目地址](https://github.com/SuperFCR/E-4DGS)
 
