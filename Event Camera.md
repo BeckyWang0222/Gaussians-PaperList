@@ -3,20 +3,20 @@
 [论文](https://arxiv.org/pdf/2505.08438)
 
 ### 3DGS-based
-#### 【2504】STP4D_Spatio-Temporal-Prompt Consistent Modeling for Text-to-4D Gaussian Splatting
-[论文]()，[项目地址]()
+#### 【2504】STP4D: Spatio-Temporal-Prompt Consistent Modeling for Text-to-4D Gaussian Splatting
+[论文](https://arxiv.org/pdf/2504.18318)，[项目地址]()
 
 #### 【2502】E-3DGS: Event-Based Novel View Rendering of Large-Scale Scenes Using 3D Gaussian Splatting
 [论文](https://arxiv.org/pdf/2502.10827)，[项目地址](https://4dqv.mpi-inf.mpg.de/E3DGS/)
 
 #### 【2411】4D Gausssian Splatting in the Wild with Uncertainty-Aware Regularization
-[论文]()，[项目地址]()
+[论文](https://arxiv.org/pdf/2411.08879)，[项目地址]()
 
 #### 【2409】SplatFields: Neural Gaussian Splats for Sparse 3D and 4D Reconstruction
 [论文](https://arxiv.org/pdf/2409.11211)，[项目地址](https://markomih.github.io/SplatFields/)
 
-#### 【2408】ST-4DGS_Spatial-Temporally Consistent 4D Gaussian Splatting
-[论文]()，[项目地址]()
+#### 【2408】ST-4DGS: Spatial-Temporally Consistent 4D Gaussian Splatting
+[论文](https://dl.acm.org/doi/10.1145/3641519.3657520?__cf_chl_rt_tk=i58wAzC7d3P4yr.gWi2DF0YJ2iLGvUiyD2PRqU5nt_4-1757491737-1.0.1.1-4V_BpJ9slY4eMBp3od2HkbgpdnLFUtvZL8OfYCSKVb0)，[项目地址]()
 
 #### 【2407】EaDeblur-GS: Event assisted 3D Deblur Reconstruction with Gaussian Splatting
 [论文](https://arxiv.org/pdf/2407.13520)，[项目地址]()
